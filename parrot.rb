@@ -3,6 +3,3 @@
 def parrot(phrase = "Squawk!")
   puts phrase
 end
-
-phrase()
-phrase("Pretty Bird!")
